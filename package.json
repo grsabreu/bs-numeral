@@ -1,5 +1,5 @@
 {
-  "name": "bs-numeral",
+  "name": "@gabrielrubens/bs-numeral",
   "version": "0.1.0",
   "description": "BuckleScript bindings for Numeral.js",
   "main": "lib/js/src/numeralRe.js",
